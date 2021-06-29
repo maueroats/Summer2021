@@ -45,6 +45,9 @@ Syntax parse docs:
 
 Syntax parse examples:
  https://docs.racket-lang.org/syntax-parse-example/
+ 
+Racket School 2019 (three days introducing macros):
+https://school.racket-lang.org/2019/plan/index.html
 
 Extra syntax classes:
  https://docs.racket-lang.org/syntax-classes/
